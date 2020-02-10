@@ -25,6 +25,7 @@
 		139BEBE123F089CC00B446CD /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 139BEBD723F089CC00B446CD /* nssl0033.jpg */; };
 		139BEBE223F089CC00B446CD /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 139BEBD823F089CC00B446CD /* nssl0034.jpg */; };
 		139BEBE623F0BA1A00B446CD /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 139BEBE523F0BA1A00B446CD /* DetailViewController.swift */; };
+		139BEBEA23F0C2D000B446CD /* MainCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 139BEBE923F0C2D000B446CD /* MainCoordinator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		139BEBD723F089CC00B446CD /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
 		139BEBD823F089CC00B446CD /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
 		139BEBE523F0BA1A00B446CD /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = SOURCE_ROOT; };
+		139BEBE923F0C2D000B446CD /* MainCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCoordinator.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				139BEBAC23F0854300B446CD /* SceneDelegate.swift */,
 				139BEBAE23F0854300B446CD /* ViewController.swift */,
 				139BEBB023F0854300B446CD /* Main.storyboard */,
+				139BEBE923F0C2D000B446CD /* MainCoordinator.swift */,
 				139BEBB323F0854400B446CD /* Assets.xcassets */,
 				139BEBB523F0854400B446CD /* LaunchScreen.storyboard */,
 				139BEBB823F0854400B446CD /* Info.plist */,
@@ -254,6 +257,7 @@
 				139BEBAF23F0854300B446CD /* ViewController.swift in Sources */,
 				139BEBAB23F0854300B446CD /* AppDelegate.swift in Sources */,
 				139BEBAD23F0854300B446CD /* SceneDelegate.swift in Sources */,
+				139BEBEA23F0C2D000B446CD /* MainCoordinator.swift in Sources */,
 				139BEBE623F0BA1A00B446CD /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
